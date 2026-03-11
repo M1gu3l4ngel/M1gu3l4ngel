@@ -1,34 +1,29 @@
-```ts
-/**
- * @file profile.ts
- * @author Migui
- */
+# Hi, I'm Migui 👋
 
-type Developer = {
-  name: string
-  role: string
-  stack: string[]
-  focus: string[]
-}
+Full-stack developer focused on building modern, scalable web applications.
 
-const migui: Developer = {
-  name: "Migui",
-  role: "Fullstack Developer",
+I primarily work with **TypeScript, Next.js, and Node.js**, developing systems, automation tools, and business platforms with an emphasis on clean architecture and maintainability.
 
-  stack: [
-    "TypeScript",
-    "Next.js",
-    "React",
-    "Node.js",
-    "Prisma",
-    "PostgreSQL"
-  ],
+## Tech Stack
 
-  focus: [
-    "Web Applications",
-    "Automation",
-    "Scalable Systems"
-  ]
-}
+**Frontend**  
+Next.js • React • TypeScript • TailwindCSS
 
-export default migui
+**Backend**  
+Node.js • Express • Prisma
+
+**Database**  
+PostgreSQL • MySQL
+
+**Tools**  
+Git • Docker • Linux
+
+## Current Focus
+
+- Scalable web architectures
+- Automation and developer tooling
+- Performance and security in web applications
+
+## Contact
+
+GitHub: https://github.com/M1gu3l4ngel
