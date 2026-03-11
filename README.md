@@ -1,23 +1,14 @@
 # M1gu3l4ngel
 
-Full-stack developer building scalable web applications and business systems with the modern TypeScript ecosystem.
+Full-stack developer building scalable web applications with the TypeScript ecosystem.
 
 ## Stack
+Next.js • TypeScript • Node.js • Prisma • PostgreSQL  
+React • Tailwind • shadcn/ui  
+WebSockets • Railway
 
-**Framework**  
-Next.js (App Router)
+## Stats
 
-**Language**  
-TypeScript
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1gu3l4ngel&show_icons=true&theme=github_dark)
 
-**Backend**  
-Node.js • Prisma • PostgreSQL
-
-**UI**  
-React • Tailwind CSS • shadcn/ui
-
-**Tools**  
-TanStack Table • React Hook Form • Zod
-
-**Infrastructure**  
-WebSockets • Resend • Railway
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1gu3l4ngel&layout=compact&theme=github_dark)
