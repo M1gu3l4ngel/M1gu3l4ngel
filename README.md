@@ -8,12 +8,12 @@ Full-stack developer building scalable web applications with the TypeScript ecos
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio)
 
 ---
 
