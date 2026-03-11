@@ -1,7 +1,5 @@
 Full-stack developer building scalable web applications with the TypeScript ecosystem.
 
----
-
 ## Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
