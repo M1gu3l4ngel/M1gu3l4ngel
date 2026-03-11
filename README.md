@@ -1,5 +1,3 @@
-# M1gu3l4ngel
-
 Full-stack developer building scalable web applications with the TypeScript ecosystem.
 
 ---
