@@ -1,28 +1,23 @@
-# Migui
+# M1gu3l4ngel
 
-Full-stack developer focused on building **scalable web applications and internal business systems** using modern TypeScript-based tooling.
-
-I work mainly with the **Next.js ecosystem**, designing architectures that combine performance, maintainability, and strong developer experience.
+Full-stack developer building scalable web applications and business systems with the modern TypeScript ecosystem.
 
 ## Stack
 
-| Layer | Technology |
-|------|-----------|
-| Framework | Next.js (App Router) + custom server |
-| Language | TypeScript |
-| Database | PostgreSQL (Supabase) + Prisma |
-| Authentication | NextAuth (JWT + bcrypt) |
-| UI | shadcn/ui + Tailwind CSS |
-| Tables | TanStack Table |
-| Forms | React Hook Form + Zod |
-| Realtime | WebSockets |
-| Email | Resend + React Email |
-| Deploy | Railway |
+**Framework**  
+Next.js (App Router)
 
-## Focus
+**Language**  
+TypeScript
 
-- Scalable web architectures  
-- Business management platforms  
-- Automation and internal tools  
+**Backend**  
+Node.js • Prisma • PostgreSQL
 
-Currently building tools, systems, and templates to streamline business operations.
+**UI**  
+React • Tailwind CSS • shadcn/ui
+
+**Tools**  
+TanStack Table • React Hook Form • Zod
+
+**Infrastructure**  
+WebSockets • Resend • Railway
