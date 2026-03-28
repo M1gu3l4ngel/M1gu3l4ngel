@@ -48,6 +48,7 @@ Full-stack developer focused on building production-ready web applications withi
 
 <p align="center">
     <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M1gu3l4ngel&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M1gu3l4ngel&theme=tokyonight" />
   </p>
 
 <p align="center">
