@@ -47,9 +47,9 @@ Full-stack developer focused on building production-ready web applications withi
 ## Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=M1gu3l4ngel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6FCD&icon_color=7C6FCD&text_color=c9d1d9&ring_color=7C6FCD" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1gu3l4ngel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6FCD&text_color=c9d1d9" />
-</p>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M1gu3l4ngel&theme=tokyonight" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1gu3l4ngel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6FCD&text_color=c9d1d9" />
+  </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=M1gu3l4ngel&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6FCD&fire=7C6FCD&currStreakLabel=7C6FCD" />
